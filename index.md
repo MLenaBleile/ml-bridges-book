@@ -1,3 +1,5 @@
+# Optimal Control Using Causal Agents
+## Translational Synergies in Causal Reinforcement Learning
 *Building bridges between fields, not mountains*
 
 By **MaryLena Bleile**
