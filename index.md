@@ -25,4 +25,4 @@ Preliminary chapers will be available here.
 
 ---
 
-**Author:** [MaryLena Bleile](https://marylenableile.com) | **Contact:** [Your email]
+**Author:** [MaryLena Bleile](https://marylenableile.com) | **Contact:** marylenableile@gmail.com
