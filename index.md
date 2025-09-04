@@ -7,7 +7,7 @@ By **MaryLena Bleile**
 
 ## About This Book
 
-This book provides a translational monograph for practitioners already familiar with either Causal Inference or Reinforcement Learning. Rather than building comprehensive theory from the ground up, this work highlights the connections and synergies between these powerful methodological approaches.
+"Optimal Control Using Causal Agents" is a translational monograph for practitioners already familiar with either Causal Inference or Reinforcement Learning. In a complementary counterpart to monographs which build comprehensive theory from the ground up, this work highlights the connections and synergies of Causal Inference and Reinforcement Learning, elucidating the broader scientific context of these methods. 
 
 
 ## Table of Contents
