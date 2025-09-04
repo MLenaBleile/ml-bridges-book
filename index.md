@@ -21,7 +21,7 @@ By **MaryLena Bleile**
 
 ## Coming Soon
 
-Preliminary chapers will be available here.
+Preliminary chapers and code will be available shortly.
 
 ---
 
