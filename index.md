@@ -1,5 +1,5 @@
 
-*Building bridges between fields, not mountains*
+*Building bridges, not mountains*
 
 By **MaryLena Bleile**
 
