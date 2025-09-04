@@ -12,6 +12,8 @@ By **MaryLena Bleile**
 
 ## Table of Contents
 
+**[Introduction (PDF)](introduction.pdf)**
+
 1. **Causal Inference With Randomization**
 2. **Causal Effects Without Randomization** 
 3. **Tabular Reinforcement Learning**
