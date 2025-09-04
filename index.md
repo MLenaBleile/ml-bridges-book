@@ -23,7 +23,7 @@ By **MaryLena Bleile**
 
 ## Coming Soon
 
-Preliminary chapers and code will be available shortly.
+Preliminary chapters and code will be available shortly.
 
 ---
 
